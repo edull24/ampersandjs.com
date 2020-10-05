@@ -8,7 +8,7 @@
     "bluebird": "*",
     "fs-extra": "^0.9.1",
     "jade": "~1.1.5",
-    "marked": "0.3.2",
+    "marked": "1.2.0",
     "meta-marked": "^0.3.1",
     "module-details": "^2.0.0",
     "request": "~2.33.0",
